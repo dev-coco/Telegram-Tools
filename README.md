@@ -26,7 +26,7 @@ Telegram tools.
 3. Enter command ```python3 -m pip install telethon``` or ```pip3 install telethon``` to install telethon.
 
 ### macOS
-1. Enter ```brew install python3``` in the terminal.
+1. Enter ```brew install python3``` in the Terminal.
 2. Enter command ```python3 -m pip install telethon``` or ```pip3 install telethon``` to install telethon.
 
 # Instructions
