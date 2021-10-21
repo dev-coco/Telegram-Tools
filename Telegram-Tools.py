@@ -64,7 +64,7 @@ if menu_item == 1:
 
 	print(green + "[+] 请选择需要获取成员的小组: " + red)
 	for i, g in enumerate(groups):
-		print(cyan + "[" + str(i) + "]" + " - " + g.title)
+		print(green + "[" + str(i) + "]" + " - " + g.title)
 	g_index = input(green+"[+] 请输入对应的数字: "+red)
 	target_group = groups[int(g_index)]
 	
